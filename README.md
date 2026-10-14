@@ -1,0 +1,2 @@
+# GudangNonfoods
+inventory pergudangan
